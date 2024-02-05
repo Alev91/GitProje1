@@ -12,6 +12,7 @@ public class Merhaba {
 
         }
 
+        System.out.println("Merhaba 6");
 
 
     }
